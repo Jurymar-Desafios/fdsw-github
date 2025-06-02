@@ -1,7 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+body nav p {
+  color: #eff3f5;
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin: 0;
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +37,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
